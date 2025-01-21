@@ -1,0 +1,92 @@
+/* Cooper Hewitt - más claro a más oscuro */
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Thin.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Thin Oblique.otf') format('opentype');
+    font-weight: 100;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Light.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Light Oblique.otf') format('opentype');
+    font-weight: 200;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Book.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Book Oblique.otf') format('opentype');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Medium.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Medium Oblique.otf') format('opentype');
+    font-weight: 400;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt SemiBold Oblique.otf') format('opentype');
+    font-weight: 600;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Bold Oblique.otf') format('opentype');
+    font-weight: 700;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Heavy.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('./Cooper Hewitt Heavy Oblique.otf') format('opentype');
+    font-weight: 900;
+    font-style: oblique;
+}
